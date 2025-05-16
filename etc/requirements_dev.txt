@@ -46,7 +46,7 @@ backports.ssl-match-hostname==3.4.0.2;python_version<'3.0'
 certifi==2015.4.28
 
 # matplotlib dependencies:
-tornado==4.2.1
+tornado==6.4.2
 pyparsing==2.0.3
 cycler==0.10.0
 matplotlib==1.5.3
